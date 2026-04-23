@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./Hexanole.png" alt="Hexanole" width="160" style="border-radius: 50%;" />
+  <img src="https://github.com/Hexanole.png" alt="Hexanole" width="160" style="border-radius: 50%;" />
 </p>
 
 <h1 align="center">HEXANOLE</h1>
