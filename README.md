@@ -1,5 +1,10 @@
-<h1 align="center">Hi , I'm Mehdi</h1>
-<h3 align="center">Development Engineer | .NET & Web Developer | Passionate about building clean and scalable applications</h3>
+<p align="center">
+  <img src="./Hexanole.png" alt="Hexanole" width="160" style="border-radius: 50%;" />
+</p>
+
+<h1 align="center">HEXANOLE</h1>
+<h3 align="center">EL MEHDI LAMNII</h3>
+<h4 align="center">Development Engineer | .NET & Web Developer | Building clean, scalable web applications</h4>
 
 <p align="center">
   <img src="https://img.shields.io/badge/C%23-68217A?style=for-the-badge&logo=csharp&logoColor=white" />
@@ -8,8 +13,7 @@
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B" />
-  <img src="https://img.shields.io/badge/Java-F80000?style=for-the-badge&logo=openjdk&logoColor=white" />
-</p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logoColor=white" />
 </p>
 
 ##  About Me
