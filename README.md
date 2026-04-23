@@ -10,7 +10,7 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B" />
 </p>
 
-## 🚀 About Me
+##  About Me
 
 -  Development Engineer focused on **backend and web development**
 -  Interested in **clean architecture**, **SOLID principles**, and **scalable systems**
@@ -44,7 +44,7 @@
 
 ---
 
-## 📌 Current Focus
+##  Current Focus
 
 - Building robust **REST APIs**
 - Improving **full-stack development** skills
