@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mehdi</h1>
+<h1 align="center">Hi , I'm Mehdi</h1>
 <h3 align="center">Development Engineer | .NET & Web Developer | Passionate about building clean and scalable applications</h3>
 
 <p align="center">
@@ -20,7 +20,7 @@
 
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 ### Backend
 <p>
